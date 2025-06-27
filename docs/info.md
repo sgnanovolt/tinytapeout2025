@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+One bit is delayed with a cople of inverters, the others are just wired through.
 
 ## How to test
 
-Explain how to use your project
+There's, most unfortunately, no real use for this design.
 
 ## External hardware
 
